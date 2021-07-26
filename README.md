@@ -16,6 +16,7 @@ Hello, folks! I am Vetha Vikashini C R <img src="https://raw.githubusercontent.c
   
 <p align="center">
 - 📫 How to reach me: [LinkedIn link](https://www.linkedin.com/in/vetha-vikashini-c-81a380b6/) or [My Homepage link](https://vethssvikas.github.io/)
+  [I'm an inline-style link](https://www.google.com)
   
 <p align="center">
 
