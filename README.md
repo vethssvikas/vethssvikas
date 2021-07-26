@@ -11,5 +11,8 @@
 
 ![Vetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vethssvikas&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vethssvikas)](https://github.com/vethssvikas/github-readme-stats)
+
+
 
 
