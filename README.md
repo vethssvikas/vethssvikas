@@ -15,8 +15,8 @@ Hello, folks! I am Vetha Vikashini C R <img src="https://raw.githubusercontent.c
 - 💬 Ask me about Machine Learning algorithms.
   
 <p align="center">
-- 📫 How to reach me: [LinkedIn link](https://www.linkedin.com/in/vetha-vikashini-c-81a380b6/) or [My Homepage link](https://vethssvikas.github.io/)
-  [I'm an inline-style link](https://www.google.com)
+- 📫 How to reach me: [LinkedIn link](https://www.linkedin.com/in/vetha-vikashini-c-81a380b6/) or [My Homepage](https://vethssvikas.github.io/)
+ 
   
 <p align="center">
 
