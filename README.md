@@ -3,7 +3,7 @@ Hello, folks! I am Vetha Vikashini C R <img src="https://raw.githubusercontent.c
 
 
 
-- 🔭 I’m currently interning at UNSW as a Deep Learning Research Intern.
+- 🔭 I’m currently interning as a Deep Learning Research Intern.
 - 🌱 I've worked at Practically as a Data Science Research Intern.
 - 👯 I’m a Pre-Final yearite at IIT Guwahati.
 - 💬 Ask me about Machine Learning algorithms.
