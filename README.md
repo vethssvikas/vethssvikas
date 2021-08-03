@@ -13,7 +13,7 @@ Hello, folks! I am Vetha Vikashini C R <img src="https://raw.githubusercontent.c
 <p align="center">
 
 
-![Vetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vethssvikas&show_icons=true&theme=radical)
+![Vetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlraf&show_icons=true&theme=radical)
   
 <p align="center">
 
