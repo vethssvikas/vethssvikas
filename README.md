@@ -3,7 +3,7 @@ Hello, folks! I am Vetha Vikashini C R <img src="https://raw.githubusercontent.c
 
 
 
-- 🔭 I’m currently interning a NLP Research Intern at UNSW, Sydney, Austrailia on Automatic Taxonomy Induction Techniques.
+- 🔭 I’m currently working as an NLP Research Intern at UNSW, Sydney on Automatic Taxonomy Induction Techniques.
 - 🌱 I've previously worked at:
 -  a. Practically as a Data Science Research Intern.
 -  b. Microsoft as a project mentee through the Engage program
