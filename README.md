@@ -4,7 +4,9 @@ Hello, folks! I am Vetha Vikashini C R <img src="https://raw.githubusercontent.c
 
 
 - 🔭 I’m currently interning a NLP Research Intern at UNSW, Sydney, Austrailia on Automatic Taxonomy Induction Techniques.
-- 🌱 I've worked at Practically as a Data Science Research Intern.
+- 🌱 I've previously worked at:
+ a. Practically as a Data Science Research Intern.
+ b. Microsoft as a project mentee through the Engage program
 - 👯 I’m a Pre-Final yearite at IIT Guwahati.
 - 💬 Ask me about Machine Learning algorithms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vetha-vikashini-c-81a380b6/) 
